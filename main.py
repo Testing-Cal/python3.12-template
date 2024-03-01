@@ -3,7 +3,7 @@ import os
 
 app = Flask(__name__)
 
-port = os.getenv('port', 7076)
+port = os.getenv('port', 7077)
 
 context = os.getenv('context', '/')
 
