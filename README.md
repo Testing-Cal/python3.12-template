@@ -1,11 +1,2 @@
-# python3.12.2-template
-
-## Project setup
-```
-pip3 install -r requirements.txt
-```
-
-### Project run
-```
-python3 ./main.py
-```
+# Python-3.12
+The files in this sample template are provided for guidance purposes only. They should be customized and adapted to meet the specific requirements of your application.
